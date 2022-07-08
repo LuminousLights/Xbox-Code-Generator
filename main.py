@@ -11,7 +11,7 @@ colorama.init()
 # If misuse, i am not responsible for any damages that has happend
 
 print(f'''{Fore.RED}
-Loading.. Xbox Code Generator ~coded by fluro#0009~
+Loading.. Xbox Code Generator ~coded by skyblue#8900~
 ''')
 time.sleep(1.5)
 os.system('cls')
